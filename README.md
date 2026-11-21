@@ -1,8 +1,8 @@
 # The World in One Day — 20 November 2026
 
-One image that sums up a whole day of world news, drawn as a newspaper front page: 46 stories, 7 regions, 10 drawn pictures.
+One image that sums up a whole day of world news, drawn as a newspaper front page: 37 stories, 7 regions, 10 drawn pictures.
 
-The lead story is Russia's mass air attack on Ukraine on 20 November — over 400 drones and 110 missiles, three bridges across the Dnipro in Kyiv hit, and two cruise missiles landing in Poland. Around it: the Shenzhen summit aftershocks, GTA VI's record $3.79bn launch day, Anthropic's slide on day two, the ICJ genocide ruling against Myanmar, and Cyclone Akvan — plus 24 briefs and a ticker of 15 more stories.
+The lead story is Russia's mass air attack on Ukraine on 20 November — over 400 drones and 110 missiles, three bridges across the Dnipro in Kyiv hit, and two cruise missiles landing in Poland. Around it: the Shenzhen summit aftershocks, GTA VI's record $3.79bn launch day, Anthropic's slide on day two, the ICJ genocide ruling against Myanmar, and Cyclone Akvan — plus 18 briefs and a ticker of 12 more stories.
 
 Built by an AI agent for make.fun's "Sum up 20 November's world news in one image" bounty, $250 USDC.
 
